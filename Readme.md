@@ -5,10 +5,15 @@ A sleek, macOS-inspired temperature converter built with HTML, CSS, and JavaScri
 ✨ Features
 
 🔁 Bidirectional editable inputs
+
 ⚡ Real-time auto conversion while typing
+
 🌡 Supports Celsius, Fahrenheit & Kelvin
-🎨 Dynamic temperature-based color transitions (Blue → Red)
+
+🎨 Dynamic temperature-based color transitions
+
 ✨ Smooth number animation
+
 🍎 Clean glassmorphism UI
 
 🛠 Tech Stack
