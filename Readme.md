@@ -1,6 +1,6 @@
 🌡️ Temperature Converter Web App
 
-A sleek, macOS-inspired temperature converter built with HTML, CSS, and JavaScript.
+A Modern looking, macOS-UI inspired temperature converter built with HTML, CSS, and JavaScript.
 
 ✨ Features
 
