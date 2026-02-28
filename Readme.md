@@ -18,8 +18,11 @@ A sleek, macOS-inspired temperature converter built with HTML, CSS, and JavaScri
 
 🛠 Tech Stack
 HTML5
+
 CSS3 (Glassmorphism + Transitions)
+
 Vanilla JavaScript (DOM Manipulation & Animations)
+
 
 🚀 Purpose :
 
