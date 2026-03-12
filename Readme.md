@@ -1,20 +1,20 @@
-🌡️ Temperature Converter Web App
+Temperature Converter Web App
 
-A sleek, macOS-inspired temperature converter built with HTML, CSS, and JavaScript.
+Temperature converter built with HTML, CSS, and JavaScript.
 
 ✨ Features
 
-🔁 Bidirectional editable inputs
+1. Bidirectional editable inputs
 
-⚡ Real-time auto conversion while typing
+2. Real-time auto conversion while typing
 
-🌡 Supports Celsius, Fahrenheit & Kelvin
+3. Supports Celsius, Fahrenheit & Kelvin
 
-🎨 Dynamic temperature-based color transitions
+4. Dynamic temperature-based color transitions
 
-✨ Smooth number animation
+5. Smooth number animation
 
-🍎 Clean glassmorphism UI
+6. Clean glassmorphism UI
 
 🛠 Tech Stack
 HTML5
@@ -23,7 +23,3 @@ CSS3 (Glassmorphism + Transitions)
 
 Vanilla JavaScript (DOM Manipulation & Animations)
 
-
-🚀 Purpose :
-
-This project demonstrates core frontend skills including event handling, real-time updates, animations, and dynamic styling.
